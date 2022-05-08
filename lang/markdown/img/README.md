@@ -1,1 +1,1 @@
-Pictures for my first github repo
+Images for my first github repo
