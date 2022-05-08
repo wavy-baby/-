@@ -1,9 +1,8 @@
 # 🐧 🛠️ 📝 📑 🔗 🧙
  
- 
-**My first Repo for my** 
+ **My first Repo** 
 
- * Experiments
- * Zettel
- * Coding Languages
  * Boost 2022
+ * Experiments
+ * Coding Languages
+ * Zettel
