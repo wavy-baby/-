@@ -130,6 +130,7 @@ She never refers to her computer as "Tomato" in the show, even though it is writ
 ![ed](/lang/markdown/img/ed3.png)
 ![ed](/lang/markdown/img/ed4.png)
 
-## References
+
+## Source
 
 https://cowboybebop.fandom.com/wiki/Edward
