@@ -23,7 +23,7 @@
 19. Build personal/professional learning network
 20. Find gainful employment as a technologist
 
-## Side Quests
+## My Side Quests
 
 1. Configure a custom Linux kernel
 2. Finish A+
