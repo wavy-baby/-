@@ -1,6 +1,6 @@
- # Unix 
+ # UNIX
  
-All **Unix**, Linux and other Unix-like operating systems are families of computer operating systems derived from the original Unix System from Bell Telephone Laboratories. Today, the largest Unix descendent directly certified as "UNIX" is macOS by Apple. The original commercial Unix derivatives included HP-UX, AIX and SunOS, to name a few.
+All **UNIX**, Linux and other Unix-like operating systems are families of computer operating systems derived from the original Unix System from Bell Telephone Laboratories. Today, the largest Unix descendent directly certified as "UNIX" is macOS by Apple. The original commercial Unix derivatives included HP-UX, AIX and SunOS, to name a few.
   
 Unix is the original, most powerful and popular multi-user and multi-tasking Operating System. The basic concepts of Unix were originated in the Multics project of 1969. The Multics system was intended as a time-sharing system that would allow multiple users to simultaneously access a mainframe computer. Ken Thompson, Dennis Ritchie, and others developed the basic building blocks of Unix including a hierarchical file system and a command line interpreter for the PDP-7. Multiple generations of Unix systems were developed for myriad computers.
 
