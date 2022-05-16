@@ -1,4 +1,3 @@
-
 # What is Linux?
  
 **Linux** is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel written from scratch by Linus Torvalds with assistance from a loosely-knit team of hackers across the Net. It aims towards POSIX and Single UNIX Specification compliance. 
