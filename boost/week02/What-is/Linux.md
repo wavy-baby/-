@@ -1,17 +1,17 @@
 
 # What is Linux?
+ 
+**Linux** is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel written from scratch by Linus Torvalds with assistance from a loosely-knit team of hackers across the Net. It aims towards POSIX and Single UNIX Specification compliance. 
 
-Linux is a Unix-like operating system created by Linus Torvalds at the University of Helsinki in 1991. The name Linux refers to the Linux kernel.  
-The development of Linux was a landmark example of global, free and open source software collaboration. Many companies and similar numbers of individuals have released their own version of Unix-like operating systems based on the Linux Kernel. 
+Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Many Linux distributions use the word "Linux" in their name, but the Free Software Foundation uses the name "**GNU/Linux**" to emphasize the importance of GNU software, causing some controversy. 
 
-Similar to Unix kernels, the Linux kernel relays instructions from an application from the computer's processor and sends the results back to the application. 
+The development of Linux is a stellar example of the power of free and open source software development and global human collaboration.    
 
-Broader in scope than commercial Unix products, Linux has been installed on a variety of platforms including mobile phones, tablets, video game consoles, NAS storage arrays, routers and small embedded controllers.  
+Many companies and similar numbers of individuals have released their own version of Unix-like operating systems based on the Linux Kernel. Popular Linux distributions include Debian, Arch, Gentoo, Fedora Linux, and Ubuntu, which in itself has many different distributions and modifications, Including Ubuntu Server and Linux Mint. Commercial distributions include Red Hat Enterprise Linux and SUSE Linux Enterprise. Desktop Linux distributions include a windowing system such as X11 or Wayland, and a desktop environment such as GNOME or KDE Plasma.
+ 
+Linux has been installed on a variety of platforms including mobile phones, tablets, video game consoles, NAS storage arrays, routers and small embedded controllers.  
 
-The development of Linux is a stellar example of the power of free and open source software development and global human collaboration.  
-A Linux "distribution" is a release of a Unix-like operating system based on the specifications of the Linux kernel.  
-
-**Key Features:**
+#### **Key Features:**
 
   *  Linux, like Unix, is a multi-user system where the resources can be shared by various system users.
   *  Linux, like Unix, provides multi-tasking. Users can execute many processes at the same time (practically speaking).
