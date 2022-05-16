@@ -18,5 +18,5 @@ Linux has been installed on a variety of platforms including mobile phones, tabl
   *  Linux, like Unix, provides a hierarchical file structure which facilitated fast data access.
   *  Linux, like Unix, has built-in networking functions so that computers can easily exchange information.
   *  Linux, unlike UNIX, specifies only the kernel but not the entire operating system.
-
+  *  Linux, unlike UNIX is open source.
     
