@@ -19,7 +19,10 @@ Linux has been installed on a variety of platforms including mobile phones, tabl
   *  Linux, like UNIX, was written in C.
   *  Linux, like UNIX, provides a hierarchical file structure which facilitated fast data access.
   *  Linux, like UNIX, has built-in networking functions so that computers can easily exchange information.
-  *  Linux, unlike UNIX, specifies only the kernel but not the entire operating system.
   *  Linux, unlike UNIX, is free and open source.
+  *  Linux, unlike UNIX, specifies only the kernel but not the entire operating system.
+
+
+### [What is the Linux Kernel?](https://github.com/wavy-baby/Primo/blob/main/boost/week02/Linux-Kernel.md#what-is-the-linux-kernel)
 
 
