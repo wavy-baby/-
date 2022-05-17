@@ -26,12 +26,12 @@
 ## My Side Quests
 
 1. Configure a custom Linux kernel
-2. Finish A+
+2. Finish A+ Cert
 3. Build a CLI command with Go: cowsay
 4. Write a simple shell in Go
 5. Build a BitTorrent Client in Go
 6. Build a Blockchain in Go
-7. 
-8.
+7. Learn more about Cryptography
+8. Hack a Satellite
 9. 
 10. 
