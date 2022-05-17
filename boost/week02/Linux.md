@@ -38,7 +38,7 @@ The kernel, if implemented properly, is invisible to the user, working in its ow
 
 Think about it like this. The kernel is a busy personal assistant for a powerful executive (the hardware). It’s the assistant’s job to relay messages and requests (processes) from employees and the public (users) to the executive, to remember what is stored where (memory), and to determine who has access to the executive at any given time and for how long.
 
-## Where the kernel fits within the OS
+### Where the kernel fits within the OS
 
 To put the kernel in context, you can think of a Linux machine as having 3 layers:
 
