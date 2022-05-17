@@ -12,11 +12,11 @@ Linux has been installed on a variety of platforms including mobile phones, tabl
 
 #### **Key Features:**
 
-  *  Linux, like Unix, is a multi-user system where the resources can be shared by various system users.
-  *  Linux, like Unix, provides multi-tasking. Users can execute many processes at the same time (practically speaking).
-  *  Linux, like Unix, was written in C.
-  *  Linux, like Unix, provides a hierarchical file structure which facilitated fast data access.
-  *  Linux, like Unix, has built-in networking functions so that computers can easily exchange information.
+  *  Linux, like UNIX, is a multi-user system where the resources can be shared by various system users.
+  *  Linux, like UNIX, provides multi-tasking. Users can execute many processes at the same time (practically speaking).
+  *  Linux, like UNIX, was written in C.
+  *  Linux, like UNIX, provides a hierarchical file structure which facilitated fast data access.
+  *  Linux, like UNIX, has built-in networking functions so that computers can easily exchange information.
   *  Linux, unlike UNIX, specifies only the kernel but not the entire operating system.
   *  Linux, unlike UNIX, is open source.
 
